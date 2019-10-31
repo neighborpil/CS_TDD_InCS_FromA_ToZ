@@ -1,0 +1,15 @@
+C:\codes\GitRepository\CS_TDD_InCS_FromA_ToZ\Section1\Lec06_RedGreenRefactor\bin\Debug\NUnit3.TestAdapter.dll
+C:\codes\GitRepository\CS_TDD_InCS_FromA_ToZ\Section1\Lec06_RedGreenRefactor\bin\Debug\NUnit3.TestAdapter.pdb
+C:\codes\GitRepository\CS_TDD_InCS_FromA_ToZ\Section1\Lec06_RedGreenRefactor\bin\Debug\nunit.engine.dll
+C:\codes\GitRepository\CS_TDD_InCS_FromA_ToZ\Section1\Lec06_RedGreenRefactor\bin\Debug\nunit.engine.api.dll
+C:\codes\GitRepository\CS_TDD_InCS_FromA_ToZ\Section1\Lec06_RedGreenRefactor\bin\Debug\Lec06_RedGreenRefactor.exe.config
+C:\codes\GitRepository\CS_TDD_InCS_FromA_ToZ\Section1\Lec06_RedGreenRefactor\bin\Debug\Lec06_RedGreenRefactor.exe
+C:\codes\GitRepository\CS_TDD_InCS_FromA_ToZ\Section1\Lec06_RedGreenRefactor\bin\Debug\Lec06_RedGreenRefactor.pdb
+C:\codes\GitRepository\CS_TDD_InCS_FromA_ToZ\Section1\Lec06_RedGreenRefactor\bin\Debug\nunit.framework.dll
+C:\codes\GitRepository\CS_TDD_InCS_FromA_ToZ\Section1\Lec06_RedGreenRefactor\bin\Debug\nunit.framework.pdb
+C:\codes\GitRepository\CS_TDD_InCS_FromA_ToZ\Section1\Lec06_RedGreenRefactor\bin\Debug\nunit.framework.xml
+C:\codes\GitRepository\CS_TDD_InCS_FromA_ToZ\Section1\Lec06_RedGreenRefactor\obj\Debug\Lec06_RedGreenRefactor.csprojAssemblyReference.cache
+C:\codes\GitRepository\CS_TDD_InCS_FromA_ToZ\Section1\Lec06_RedGreenRefactor\obj\Debug\Lec06_RedGreenRefactor.csproj.CoreCompileInputs.cache
+C:\codes\GitRepository\CS_TDD_InCS_FromA_ToZ\Section1\Lec06_RedGreenRefactor\obj\Debug\Lec06_RedGreenRefactor.csproj.CopyComplete
+C:\codes\GitRepository\CS_TDD_InCS_FromA_ToZ\Section1\Lec06_RedGreenRefactor\obj\Debug\Lec06_RedGreenRefactor.exe
+C:\codes\GitRepository\CS_TDD_InCS_FromA_ToZ\Section1\Lec06_RedGreenRefactor\obj\Debug\Lec06_RedGreenRefactor.pdb

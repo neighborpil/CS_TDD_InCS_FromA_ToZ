@@ -1,0 +1,7 @@
+C:\codes\GitRepository\CS_TDD_InCS_FromA_ToZ\Section1\Lec04_WhyWeNeedTDD\bin\Debug\Lec04_WhyWeNeedTDD.exe.config
+C:\codes\GitRepository\CS_TDD_InCS_FromA_ToZ\Section1\Lec04_WhyWeNeedTDD\bin\Debug\Lec04_WhyWeNeedTDD.exe
+C:\codes\GitRepository\CS_TDD_InCS_FromA_ToZ\Section1\Lec04_WhyWeNeedTDD\bin\Debug\Lec04_WhyWeNeedTDD.pdb
+C:\codes\GitRepository\CS_TDD_InCS_FromA_ToZ\Section1\Lec04_WhyWeNeedTDD\obj\Debug\Lec04_WhyWeNeedTDD.csprojAssemblyReference.cache
+C:\codes\GitRepository\CS_TDD_InCS_FromA_ToZ\Section1\Lec04_WhyWeNeedTDD\obj\Debug\Lec04_WhyWeNeedTDD.csproj.CoreCompileInputs.cache
+C:\codes\GitRepository\CS_TDD_InCS_FromA_ToZ\Section1\Lec04_WhyWeNeedTDD\obj\Debug\Lec04_WhyWeNeedTDD.exe
+C:\codes\GitRepository\CS_TDD_InCS_FromA_ToZ\Section1\Lec04_WhyWeNeedTDD\obj\Debug\Lec04_WhyWeNeedTDD.pdb
